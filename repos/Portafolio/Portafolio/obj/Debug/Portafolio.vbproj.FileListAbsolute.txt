@@ -1,0 +1,25 @@
+C:\Users\Mypc\Documents\Visual Studio 2017\Projects\Portafolio\Portafolio\bin\Debug\Portafolio.exe.config
+C:\Users\Mypc\Documents\Visual Studio 2017\Projects\Portafolio\Portafolio\bin\Debug\Portafolio.exe
+C:\Users\Mypc\Documents\Visual Studio 2017\Projects\Portafolio\Portafolio\bin\Debug\Portafolio.pdb
+C:\Users\Mypc\Documents\Visual Studio 2017\Projects\Portafolio\Portafolio\bin\Debug\Portafolio.xml
+C:\Users\Mypc\Documents\Visual Studio 2017\Projects\Portafolio\Portafolio\obj\Debug\Portafolio.vbprojResolveAssemblyReference.cache
+C:\Users\Mypc\Documents\Visual Studio 2017\Projects\Portafolio\Portafolio\obj\Debug\Portafolio.Form1.resources
+C:\Users\Mypc\Documents\Visual Studio 2017\Projects\Portafolio\Portafolio\obj\Debug\Portafolio.Resources.resources
+C:\Users\Mypc\Documents\Visual Studio 2017\Projects\Portafolio\Portafolio\obj\Debug\Portafolio.vbproj.GenerateResource.Cache
+C:\Users\Mypc\Documents\Visual Studio 2017\Projects\Portafolio\Portafolio\obj\Debug\Portafolio.vbproj.CoreCompileInputs.cache
+C:\Users\Mypc\Documents\Visual Studio 2017\Projects\Portafolio\Portafolio\obj\Debug\Portafolio.exe
+C:\Users\Mypc\Documents\Visual Studio 2017\Projects\Portafolio\Portafolio\obj\Debug\Portafolio.xml
+C:\Users\Mypc\Documents\Visual Studio 2017\Projects\Portafolio\Portafolio\obj\Debug\Portafolio.pdb
+C:\Users\Mypc.DESKTOP-955L8C7\source\repos\Portafolio\Portafolio\bin\Debug\Portafolio.exe.config
+C:\Users\Mypc.DESKTOP-955L8C7\source\repos\Portafolio\Portafolio\bin\Debug\Portafolio.exe
+C:\Users\Mypc.DESKTOP-955L8C7\source\repos\Portafolio\Portafolio\bin\Debug\Portafolio.pdb
+C:\Users\Mypc.DESKTOP-955L8C7\source\repos\Portafolio\Portafolio\bin\Debug\Portafolio.xml
+C:\Users\Mypc.DESKTOP-955L8C7\source\repos\Portafolio\Portafolio\obj\Debug\Portafolio.vbprojResolveAssemblyReference.cache
+C:\Users\Mypc.DESKTOP-955L8C7\source\repos\Portafolio\Portafolio\obj\Debug\Portafolio.Form1.resources
+C:\Users\Mypc.DESKTOP-955L8C7\source\repos\Portafolio\Portafolio\obj\Debug\Portafolio.Resources.resources
+C:\Users\Mypc.DESKTOP-955L8C7\source\repos\Portafolio\Portafolio\obj\Debug\Portafolio.vbproj.GenerateResource.Cache
+C:\Users\Mypc.DESKTOP-955L8C7\source\repos\Portafolio\Portafolio\obj\Debug\Portafolio.vbproj.CoreCompileInputs.cache
+C:\Users\Mypc.DESKTOP-955L8C7\source\repos\Portafolio\Portafolio\obj\Debug\Portafolio.exe
+C:\Users\Mypc.DESKTOP-955L8C7\source\repos\Portafolio\Portafolio\obj\Debug\Portafolio.xml
+C:\Users\Mypc.DESKTOP-955L8C7\source\repos\Portafolio\Portafolio\obj\Debug\Portafolio.pdb
+C:\Users\Mypc.DESKTOP-955L8C7\source\repos\Portafolio\Portafolio\obj\Debug\Portafolio.Form2.resources

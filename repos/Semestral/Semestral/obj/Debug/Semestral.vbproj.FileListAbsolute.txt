@@ -1,0 +1,47 @@
+C:\Users\Mypc.DESKTOP-955L8C7\source\repos\Semestral\Semestral\bin\Debug\Semestral.exe.config
+C:\Users\Mypc.DESKTOP-955L8C7\source\repos\Semestral\Semestral\bin\Debug\Semestral.exe
+C:\Users\Mypc.DESKTOP-955L8C7\source\repos\Semestral\Semestral\bin\Debug\Semestral.pdb
+C:\Users\Mypc.DESKTOP-955L8C7\source\repos\Semestral\Semestral\bin\Debug\Semestral.xml
+C:\Users\Mypc.DESKTOP-955L8C7\source\repos\Semestral\Semestral\bin\Debug\MySql.Data.dll
+C:\Users\Mypc.DESKTOP-955L8C7\source\repos\Semestral\Semestral\bin\Debug\MySql.Data.xml
+C:\Users\Mypc.DESKTOP-955L8C7\source\repos\Semestral\Semestral\obj\Debug\Semestral.vbprojResolveAssemblyReference.cache
+C:\Users\Mypc.DESKTOP-955L8C7\source\repos\Semestral\Semestral\obj\Debug\Semestral.Form1.resources
+C:\Users\Mypc.DESKTOP-955L8C7\source\repos\Semestral\Semestral\obj\Debug\Semestral.Resources.resources
+C:\Users\Mypc.DESKTOP-955L8C7\source\repos\Semestral\Semestral\obj\Debug\Semestral.vbproj.GenerateResource.Cache
+C:\Users\Mypc.DESKTOP-955L8C7\source\repos\Semestral\Semestral\obj\Debug\Semestral.vbproj.CoreCompileInputs.cache
+C:\Users\Mypc.DESKTOP-955L8C7\source\repos\Semestral\Semestral\obj\Debug\Semestral.exe
+C:\Users\Mypc.DESKTOP-955L8C7\source\repos\Semestral\Semestral\obj\Debug\Semestral.xml
+C:\Users\Mypc.DESKTOP-955L8C7\source\repos\Semestral\Semestral\obj\Debug\Semestral.pdb
+C:\Users\Mypc.DESKTOP-955L8C7\source\repos\Semestral\Semestral\obj\Debug\Semestral.Form2.resources
+C:\Users\Mypc.DESKTOP-955L8C7\source\repos\Semestral\Semestral\obj\Debug\Semestral.Form3.resources
+C:\Users\Mypc.DESKTOP-955L8C7\source\repos\Semestral\Semestral\obj\Debug\Semestral.Form4.resources
+C:\Users\Mypc.DESKTOP-955L8C7\source\repos\Semestral\Semestral\obj\Debug\Semestral.Form5.resources
+C:\Users\Mypc.DESKTOP-955L8C7\source\repos\Semestral\Semestral\obj\Debug\Semestral.Form6.resources
+C:\Users\Jesus\Documents\Visual Studio 2017\Projects\Semestral\Semestral\bin\Debug\Semestral.exe.config
+C:\Users\Jesus\Documents\Visual Studio 2017\Projects\Semestral\Semestral\bin\Debug\Semestral.exe
+C:\Users\Jesus\Documents\Visual Studio 2017\Projects\Semestral\Semestral\bin\Debug\Semestral.pdb
+C:\Users\Jesus\Documents\Visual Studio 2017\Projects\Semestral\Semestral\bin\Debug\Semestral.xml
+C:\Users\Jesus\Documents\Visual Studio 2017\Projects\Semestral\Semestral\bin\Debug\MySql.Data.dll
+C:\Users\Jesus\Documents\Visual Studio 2017\Projects\Semestral\Semestral\bin\Debug\MySql.Data.xml
+C:\Users\Jesus\Documents\Visual Studio 2017\Projects\Semestral\Semestral\obj\Debug\Semestral.vbprojResolveAssemblyReference.cache
+C:\Users\Jesus\Documents\Visual Studio 2017\Projects\Semestral\Semestral\obj\Debug\Semestral.Form1.resources
+C:\Users\Jesus\Documents\Visual Studio 2017\Projects\Semestral\Semestral\obj\Debug\Semestral.Form2.resources
+C:\Users\Jesus\Documents\Visual Studio 2017\Projects\Semestral\Semestral\obj\Debug\Semestral.Form3.resources
+C:\Users\Jesus\Documents\Visual Studio 2017\Projects\Semestral\Semestral\obj\Debug\Semestral.Form4.resources
+C:\Users\Jesus\Documents\Visual Studio 2017\Projects\Semestral\Semestral\obj\Debug\Semestral.Form5.resources
+C:\Users\Jesus\Documents\Visual Studio 2017\Projects\Semestral\Semestral\obj\Debug\Semestral.Form6.resources
+C:\Users\Jesus\Documents\Visual Studio 2017\Projects\Semestral\Semestral\obj\Debug\Semestral.Resources.resources
+C:\Users\Jesus\Documents\Visual Studio 2017\Projects\Semestral\Semestral\obj\Debug\Semestral.vbproj.GenerateResource.Cache
+C:\Users\Jesus\Documents\Visual Studio 2017\Projects\Semestral\Semestral\obj\Debug\Semestral.exe
+C:\Users\Jesus\Documents\Visual Studio 2017\Projects\Semestral\Semestral\obj\Debug\Semestral.xml
+C:\Users\Jesus\Documents\Visual Studio 2017\Projects\Semestral\Semestral\obj\Debug\Semestral.pdb
+C:\Users\Jesus\Documents\Visual Studio 2017\Projects\Semestral\Semestral\obj\Debug\Semestral.Form7.resources
+C:\Users\Jesus\Documents\Visual Studio 2017\Projects\Semestral\Semestral\obj\Debug\Semestral.Form8.resources
+C:\Users\Jesus\Documents\Visual Studio 2017\Projects\Semestral\Semestral\obj\Debug\Semestral.Form9.resources
+C:\Users\Jesus\Documents\Visual Studio 2017\Projects\Semestral\Semestral\obj\Debug\Semestral.Form10.resources
+C:\Users\Jesus\Documents\Visual Studio 2017\Projects\Semestral\Semestral\obj\Debug\Semestral.Form11.resources
+C:\Users\Mypc.DESKTOP-955L8C7\source\repos\Semestral\Semestral\obj\Debug\Semestral.Form10.resources
+C:\Users\Mypc.DESKTOP-955L8C7\source\repos\Semestral\Semestral\obj\Debug\Semestral.Form11.resources
+C:\Users\Mypc.DESKTOP-955L8C7\source\repos\Semestral\Semestral\obj\Debug\Semestral.Form7.resources
+C:\Users\Mypc.DESKTOP-955L8C7\source\repos\Semestral\Semestral\obj\Debug\Semestral.Form8.resources
+C:\Users\Mypc.DESKTOP-955L8C7\source\repos\Semestral\Semestral\obj\Debug\Semestral.Form9.resources

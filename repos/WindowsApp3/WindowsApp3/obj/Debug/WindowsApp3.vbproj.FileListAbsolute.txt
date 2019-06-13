@@ -1,0 +1,12 @@
+c:\users\mypc\documents\visual studio 2017\Projects\WindowsApp3\WindowsApp3\bin\Debug\WindowsApp3.exe.config
+c:\users\mypc\documents\visual studio 2017\Projects\WindowsApp3\WindowsApp3\bin\Debug\WindowsApp3.exe
+c:\users\mypc\documents\visual studio 2017\Projects\WindowsApp3\WindowsApp3\bin\Debug\WindowsApp3.pdb
+c:\users\mypc\documents\visual studio 2017\Projects\WindowsApp3\WindowsApp3\bin\Debug\WindowsApp3.xml
+c:\users\mypc\documents\visual studio 2017\Projects\WindowsApp3\WindowsApp3\obj\Debug\WindowsApp3.Form1.resources
+c:\users\mypc\documents\visual studio 2017\Projects\WindowsApp3\WindowsApp3\obj\Debug\WindowsApp3.Resources.resources
+c:\users\mypc\documents\visual studio 2017\Projects\WindowsApp3\WindowsApp3\obj\Debug\WindowsApp3.vbproj.GenerateResource.Cache
+c:\users\mypc\documents\visual studio 2017\Projects\WindowsApp3\WindowsApp3\obj\Debug\WindowsApp3.exe
+c:\users\mypc\documents\visual studio 2017\Projects\WindowsApp3\WindowsApp3\obj\Debug\WindowsApp3.xml
+c:\users\mypc\documents\visual studio 2017\Projects\WindowsApp3\WindowsApp3\obj\Debug\WindowsApp3.pdb
+c:\users\mypc\documents\visual studio 2017\Projects\WindowsApp3\WindowsApp3\obj\Debug\WindowsApp3.vbprojResolveAssemblyReference.cache
+c:\users\mypc\documents\visual studio 2017\Projects\WindowsApp3\WindowsApp3\obj\Debug\WindowsApp3.Form2.resources

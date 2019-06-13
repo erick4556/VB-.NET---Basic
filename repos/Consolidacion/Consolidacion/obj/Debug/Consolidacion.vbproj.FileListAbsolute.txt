@@ -1,0 +1,14 @@
+c:\users\mypc.desktop-955l8c7\source\repos\Consolidacion\Consolidacion\bin\Debug\Consolidacion.exe.config
+c:\users\mypc.desktop-955l8c7\source\repos\Consolidacion\Consolidacion\bin\Debug\Consolidacion.exe
+c:\users\mypc.desktop-955l8c7\source\repos\Consolidacion\Consolidacion\bin\Debug\Consolidacion.pdb
+c:\users\mypc.desktop-955l8c7\source\repos\Consolidacion\Consolidacion\bin\Debug\Consolidacion.xml
+c:\users\mypc.desktop-955l8c7\source\repos\Consolidacion\Consolidacion\bin\Debug\MySql.Data.dll
+c:\users\mypc.desktop-955l8c7\source\repos\Consolidacion\Consolidacion\bin\Debug\MySql.Data.xml
+c:\users\mypc.desktop-955l8c7\source\repos\Consolidacion\Consolidacion\obj\Debug\Consolidacion.vbprojResolveAssemblyReference.cache
+c:\users\mypc.desktop-955l8c7\source\repos\Consolidacion\Consolidacion\obj\Debug\Consolidacion.Form1.resources
+c:\users\mypc.desktop-955l8c7\source\repos\Consolidacion\Consolidacion\obj\Debug\Consolidacion.Resources.resources
+c:\users\mypc.desktop-955l8c7\source\repos\Consolidacion\Consolidacion\obj\Debug\Consolidacion.vbproj.GenerateResource.Cache
+c:\users\mypc.desktop-955l8c7\source\repos\Consolidacion\Consolidacion\obj\Debug\Consolidacion.vbproj.CoreCompileInputs.cache
+c:\users\mypc.desktop-955l8c7\source\repos\Consolidacion\Consolidacion\obj\Debug\Consolidacion.exe
+c:\users\mypc.desktop-955l8c7\source\repos\Consolidacion\Consolidacion\obj\Debug\Consolidacion.xml
+c:\users\mypc.desktop-955l8c7\source\repos\Consolidacion\Consolidacion\obj\Debug\Consolidacion.pdb

@@ -1,0 +1,22 @@
+C:\Users\Mypc\Documents\Visual Studio 2017\Projects\Consola2\Consola2\bin\Debug\Consola2.exe.config
+C:\Users\Mypc\Documents\Visual Studio 2017\Projects\Consola2\Consola2\bin\Debug\Consola2.exe
+C:\Users\Mypc\Documents\Visual Studio 2017\Projects\Consola2\Consola2\bin\Debug\Consola2.pdb
+C:\Users\Mypc\Documents\Visual Studio 2017\Projects\Consola2\Consola2\bin\Debug\Consola2.xml
+C:\Users\Mypc\Documents\Visual Studio 2017\Projects\Consola2\Consola2\obj\Debug\Consola2.vbprojResolveAssemblyReference.cache
+C:\Users\Mypc\Documents\Visual Studio 2017\Projects\Consola2\Consola2\obj\Debug\Consola2.Resources.resources
+C:\Users\Mypc\Documents\Visual Studio 2017\Projects\Consola2\Consola2\obj\Debug\Consola2.vbproj.GenerateResource.Cache
+C:\Users\Mypc\Documents\Visual Studio 2017\Projects\Consola2\Consola2\obj\Debug\Consola2.vbproj.CoreCompileInputs.cache
+C:\Users\Mypc\Documents\Visual Studio 2017\Projects\Consola2\Consola2\obj\Debug\Consola2.exe
+C:\Users\Mypc\Documents\Visual Studio 2017\Projects\Consola2\Consola2\obj\Debug\Consola2.xml
+C:\Users\Mypc\Documents\Visual Studio 2017\Projects\Consola2\Consola2\obj\Debug\Consola2.pdb
+C:\Users\Mypc.DESKTOP-955L8C7\source\repos\Consola2\Consola2\bin\Debug\Consola2.exe.config
+C:\Users\Mypc.DESKTOP-955L8C7\source\repos\Consola2\Consola2\bin\Debug\Consola2.exe
+C:\Users\Mypc.DESKTOP-955L8C7\source\repos\Consola2\Consola2\bin\Debug\Consola2.pdb
+C:\Users\Mypc.DESKTOP-955L8C7\source\repos\Consola2\Consola2\bin\Debug\Consola2.xml
+C:\Users\Mypc.DESKTOP-955L8C7\source\repos\Consola2\Consola2\obj\Debug\Consola2.vbprojResolveAssemblyReference.cache
+C:\Users\Mypc.DESKTOP-955L8C7\source\repos\Consola2\Consola2\obj\Debug\Consola2.Resources.resources
+C:\Users\Mypc.DESKTOP-955L8C7\source\repos\Consola2\Consola2\obj\Debug\Consola2.vbproj.GenerateResource.Cache
+C:\Users\Mypc.DESKTOP-955L8C7\source\repos\Consola2\Consola2\obj\Debug\Consola2.vbproj.CoreCompileInputs.cache
+C:\Users\Mypc.DESKTOP-955L8C7\source\repos\Consola2\Consola2\obj\Debug\Consola2.exe
+C:\Users\Mypc.DESKTOP-955L8C7\source\repos\Consola2\Consola2\obj\Debug\Consola2.xml
+C:\Users\Mypc.DESKTOP-955L8C7\source\repos\Consola2\Consola2\obj\Debug\Consola2.pdb

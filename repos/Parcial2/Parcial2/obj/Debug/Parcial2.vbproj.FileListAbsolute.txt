@@ -1,0 +1,11 @@
+c:\users\mypc.desktop-955l8c7\source\repos\Parcial2\Parcial2\bin\Debug\Parcial2.exe.config
+c:\users\mypc.desktop-955l8c7\source\repos\Parcial2\Parcial2\bin\Debug\Parcial2.exe
+c:\users\mypc.desktop-955l8c7\source\repos\Parcial2\Parcial2\bin\Debug\Parcial2.pdb
+c:\users\mypc.desktop-955l8c7\source\repos\Parcial2\Parcial2\bin\Debug\Parcial2.xml
+c:\users\mypc.desktop-955l8c7\source\repos\Parcial2\Parcial2\obj\Debug\Parcial2.vbprojResolveAssemblyReference.cache
+c:\users\mypc.desktop-955l8c7\source\repos\Parcial2\Parcial2\obj\Debug\Parcial2.Resources.resources
+c:\users\mypc.desktop-955l8c7\source\repos\Parcial2\Parcial2\obj\Debug\Parcial2.vbproj.GenerateResource.Cache
+c:\users\mypc.desktop-955l8c7\source\repos\Parcial2\Parcial2\obj\Debug\Parcial2.vbproj.CoreCompileInputs.cache
+c:\users\mypc.desktop-955l8c7\source\repos\Parcial2\Parcial2\obj\Debug\Parcial2.exe
+c:\users\mypc.desktop-955l8c7\source\repos\Parcial2\Parcial2\obj\Debug\Parcial2.xml
+c:\users\mypc.desktop-955l8c7\source\repos\Parcial2\Parcial2\obj\Debug\Parcial2.pdb

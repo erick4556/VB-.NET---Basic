@@ -1,0 +1,28 @@
+c:\users\mypc\documents\visual studio 2017\Projects\Parcial1\Parcial1\bin\Debug\Parcial1.exe.config
+c:\users\mypc\documents\visual studio 2017\Projects\Parcial1\Parcial1\bin\Debug\Parcial1.exe
+c:\users\mypc\documents\visual studio 2017\Projects\Parcial1\Parcial1\bin\Debug\Parcial1.pdb
+c:\users\mypc\documents\visual studio 2017\Projects\Parcial1\Parcial1\bin\Debug\Parcial1.xml
+c:\users\mypc\documents\visual studio 2017\Projects\Parcial1\Parcial1\obj\Debug\Parcial1.vbprojResolveAssemblyReference.cache
+c:\users\mypc\documents\visual studio 2017\Projects\Parcial1\Parcial1\obj\Debug\Parcial1.Form1.resources
+c:\users\mypc\documents\visual studio 2017\Projects\Parcial1\Parcial1\obj\Debug\Parcial1.Form2.resources
+c:\users\mypc\documents\visual studio 2017\Projects\Parcial1\Parcial1\obj\Debug\Parcial1.Resources.resources
+c:\users\mypc\documents\visual studio 2017\Projects\Parcial1\Parcial1\obj\Debug\Parcial1.vbproj.GenerateResource.Cache
+c:\users\mypc\documents\visual studio 2017\Projects\Parcial1\Parcial1\obj\Debug\Parcial1.exe
+c:\users\mypc\documents\visual studio 2017\Projects\Parcial1\Parcial1\obj\Debug\Parcial1.xml
+c:\users\mypc\documents\visual studio 2017\Projects\Parcial1\Parcial1\obj\Debug\Parcial1.pdb
+c:\users\mypc\documents\visual studio 2017\Projects\Parcial1\Parcial1\obj\Debug\Parcial1.Form3.resources
+C:\Users\Mypc\Documents\Visual Studio 2017\Projects\Parcial1\Parcial1\obj\Debug\Parcial1.vbproj.CoreCompileInputs.cache
+C:\Users\Mypc.DESKTOP-955L8C7\source\repos\Parcial1\Parcial1\bin\Debug\Parcial1.exe.config
+C:\Users\Mypc.DESKTOP-955L8C7\source\repos\Parcial1\Parcial1\bin\Debug\Parcial1.exe
+C:\Users\Mypc.DESKTOP-955L8C7\source\repos\Parcial1\Parcial1\bin\Debug\Parcial1.pdb
+C:\Users\Mypc.DESKTOP-955L8C7\source\repos\Parcial1\Parcial1\bin\Debug\Parcial1.xml
+C:\Users\Mypc.DESKTOP-955L8C7\source\repos\Parcial1\Parcial1\obj\Debug\Parcial1.vbprojResolveAssemblyReference.cache
+C:\Users\Mypc.DESKTOP-955L8C7\source\repos\Parcial1\Parcial1\obj\Debug\Parcial1.Form1.resources
+C:\Users\Mypc.DESKTOP-955L8C7\source\repos\Parcial1\Parcial1\obj\Debug\Parcial1.Form2.resources
+C:\Users\Mypc.DESKTOP-955L8C7\source\repos\Parcial1\Parcial1\obj\Debug\Parcial1.Form3.resources
+C:\Users\Mypc.DESKTOP-955L8C7\source\repos\Parcial1\Parcial1\obj\Debug\Parcial1.Resources.resources
+C:\Users\Mypc.DESKTOP-955L8C7\source\repos\Parcial1\Parcial1\obj\Debug\Parcial1.vbproj.GenerateResource.Cache
+C:\Users\Mypc.DESKTOP-955L8C7\source\repos\Parcial1\Parcial1\obj\Debug\Parcial1.vbproj.CoreCompileInputs.cache
+C:\Users\Mypc.DESKTOP-955L8C7\source\repos\Parcial1\Parcial1\obj\Debug\Parcial1.exe
+C:\Users\Mypc.DESKTOP-955L8C7\source\repos\Parcial1\Parcial1\obj\Debug\Parcial1.xml
+C:\Users\Mypc.DESKTOP-955L8C7\source\repos\Parcial1\Parcial1\obj\Debug\Parcial1.pdb

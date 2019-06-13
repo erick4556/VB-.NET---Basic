@@ -1,0 +1,27 @@
+c:\users\mypc\documents\visual studio 2017\Projects\Proyecto1\Proyecto1\bin\Debug\Proyecto1.exe.config
+c:\users\mypc\documents\visual studio 2017\Projects\Proyecto1\Proyecto1\bin\Debug\Proyecto1.exe
+c:\users\mypc\documents\visual studio 2017\Projects\Proyecto1\Proyecto1\bin\Debug\Proyecto1.pdb
+c:\users\mypc\documents\visual studio 2017\Projects\Proyecto1\Proyecto1\bin\Debug\Proyecto1.xml
+c:\users\mypc\documents\visual studio 2017\Projects\Proyecto1\Proyecto1\obj\Debug\Proyecto1.vbprojResolveAssemblyReference.cache
+c:\users\mypc\documents\visual studio 2017\Projects\Proyecto1\Proyecto1\obj\Debug\Proyecto1.Form1.resources
+c:\users\mypc\documents\visual studio 2017\Projects\Proyecto1\Proyecto1\obj\Debug\Proyecto1.Form2.resources
+c:\users\mypc\documents\visual studio 2017\Projects\Proyecto1\Proyecto1\obj\Debug\Proyecto1.Form3.resources
+c:\users\mypc\documents\visual studio 2017\Projects\Proyecto1\Proyecto1\obj\Debug\Proyecto1.Resources.resources
+c:\users\mypc\documents\visual studio 2017\Projects\Proyecto1\Proyecto1\obj\Debug\Proyecto1.vbproj.GenerateResource.Cache
+c:\users\mypc\documents\visual studio 2017\Projects\Proyecto1\Proyecto1\obj\Debug\Proyecto1.exe
+c:\users\mypc\documents\visual studio 2017\Projects\Proyecto1\Proyecto1\obj\Debug\Proyecto1.xml
+c:\users\mypc\documents\visual studio 2017\Projects\Proyecto1\Proyecto1\obj\Debug\Proyecto1.pdb
+C:\Users\Mypc.DESKTOP-955L8C7\source\repos\Proyecto1\Proyecto1\bin\Debug\Proyecto1.exe.config
+C:\Users\Mypc.DESKTOP-955L8C7\source\repos\Proyecto1\Proyecto1\bin\Debug\Proyecto1.exe
+C:\Users\Mypc.DESKTOP-955L8C7\source\repos\Proyecto1\Proyecto1\bin\Debug\Proyecto1.pdb
+C:\Users\Mypc.DESKTOP-955L8C7\source\repos\Proyecto1\Proyecto1\bin\Debug\Proyecto1.xml
+C:\Users\Mypc.DESKTOP-955L8C7\source\repos\Proyecto1\Proyecto1\obj\Debug\Proyecto1.vbprojResolveAssemblyReference.cache
+C:\Users\Mypc.DESKTOP-955L8C7\source\repos\Proyecto1\Proyecto1\obj\Debug\Proyecto1.Form1.resources
+C:\Users\Mypc.DESKTOP-955L8C7\source\repos\Proyecto1\Proyecto1\obj\Debug\Proyecto1.Form2.resources
+C:\Users\Mypc.DESKTOP-955L8C7\source\repos\Proyecto1\Proyecto1\obj\Debug\Proyecto1.Form3.resources
+C:\Users\Mypc.DESKTOP-955L8C7\source\repos\Proyecto1\Proyecto1\obj\Debug\Proyecto1.Resources.resources
+C:\Users\Mypc.DESKTOP-955L8C7\source\repos\Proyecto1\Proyecto1\obj\Debug\Proyecto1.vbproj.GenerateResource.Cache
+C:\Users\Mypc.DESKTOP-955L8C7\source\repos\Proyecto1\Proyecto1\obj\Debug\Proyecto1.vbproj.CoreCompileInputs.cache
+C:\Users\Mypc.DESKTOP-955L8C7\source\repos\Proyecto1\Proyecto1\obj\Debug\Proyecto1.exe
+C:\Users\Mypc.DESKTOP-955L8C7\source\repos\Proyecto1\Proyecto1\obj\Debug\Proyecto1.xml
+C:\Users\Mypc.DESKTOP-955L8C7\source\repos\Proyecto1\Proyecto1\obj\Debug\Proyecto1.pdb

@@ -1,0 +1,11 @@
+C:\Users\Mypc\Documents\Visual Studio 2017\Projects\Consola+\Consola+\bin\Debug\Consola+.exe.config
+C:\Users\Mypc\Documents\Visual Studio 2017\Projects\Consola+\Consola+\bin\Debug\Consola+.exe
+C:\Users\Mypc\Documents\Visual Studio 2017\Projects\Consola+\Consola+\bin\Debug\Consola+.pdb
+C:\Users\Mypc\Documents\Visual Studio 2017\Projects\Consola+\Consola+\bin\Debug\Consola+.xml
+C:\Users\Mypc\Documents\Visual Studio 2017\Projects\Consola+\Consola+\obj\Debug\Consola+.vbprojResolveAssemblyReference.cache
+C:\Users\Mypc\Documents\Visual Studio 2017\Projects\Consola+\Consola+\obj\Debug\Consola_.Resources.resources
+C:\Users\Mypc\Documents\Visual Studio 2017\Projects\Consola+\Consola+\obj\Debug\Consola+.vbproj.GenerateResource.Cache
+C:\Users\Mypc\Documents\Visual Studio 2017\Projects\Consola+\Consola+\obj\Debug\Consola+.vbproj.CoreCompileInputs.cache
+C:\Users\Mypc\Documents\Visual Studio 2017\Projects\Consola+\Consola+\obj\Debug\Consola+.exe
+C:\Users\Mypc\Documents\Visual Studio 2017\Projects\Consola+\Consola+\obj\Debug\Consola+.xml
+C:\Users\Mypc\Documents\Visual Studio 2017\Projects\Consola+\Consola+\obj\Debug\Consola+.pdb

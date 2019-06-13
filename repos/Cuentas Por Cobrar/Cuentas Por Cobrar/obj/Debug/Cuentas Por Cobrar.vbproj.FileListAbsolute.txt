@@ -1,0 +1,48 @@
+C:\Users\Steven Castillo\source\repos\Cuentas Por Cobrar\Cuentas Por Cobrar\bin\Debug\Cuentas Por Cobrar.exe.config
+C:\Users\Steven Castillo\source\repos\Cuentas Por Cobrar\Cuentas Por Cobrar\bin\Debug\Cuentas Por Cobrar.exe
+C:\Users\Steven Castillo\source\repos\Cuentas Por Cobrar\Cuentas Por Cobrar\bin\Debug\Cuentas Por Cobrar.pdb
+C:\Users\Steven Castillo\source\repos\Cuentas Por Cobrar\Cuentas Por Cobrar\bin\Debug\Cuentas Por Cobrar.xml
+C:\Users\Steven Castillo\source\repos\Cuentas Por Cobrar\Cuentas Por Cobrar\bin\Debug\MySql.Data.dll
+C:\Users\Steven Castillo\source\repos\Cuentas Por Cobrar\Cuentas Por Cobrar\bin\Debug\MySql.Data.Entity.EF6.dll
+C:\Users\Steven Castillo\source\repos\Cuentas Por Cobrar\Cuentas Por Cobrar\bin\Debug\MySQL.Data.EntityFrameworkCore.Design.dll
+C:\Users\Steven Castillo\source\repos\Cuentas Por Cobrar\Cuentas Por Cobrar\bin\Debug\MySQL.Data.EntityFrameworkCore.dll
+C:\Users\Steven Castillo\source\repos\Cuentas Por Cobrar\Cuentas Por Cobrar\bin\Debug\MySql.Web.dll
+C:\Users\Steven Castillo\source\repos\Cuentas Por Cobrar\Cuentas Por Cobrar\bin\Debug\MySql.Data.xml
+C:\Users\Steven Castillo\source\repos\Cuentas Por Cobrar\Cuentas Por Cobrar\bin\Debug\MySql.Data.Entity.EF6.xml
+C:\Users\Steven Castillo\source\repos\Cuentas Por Cobrar\Cuentas Por Cobrar\bin\Debug\MySQL.Data.EntityFrameworkCore.xml
+C:\Users\Steven Castillo\source\repos\Cuentas Por Cobrar\Cuentas Por Cobrar\bin\Debug\MySql.Web.xml
+C:\Users\Steven Castillo\source\repos\Cuentas Por Cobrar\Cuentas Por Cobrar\obj\Debug\Cuentas Por Cobrar.vbprojResolveAssemblyReference.cache
+C:\Users\Steven Castillo\source\repos\Cuentas Por Cobrar\Cuentas Por Cobrar\obj\Debug\Cuentas_Por_Cobrar.Form1.resources
+C:\Users\Steven Castillo\source\repos\Cuentas Por Cobrar\Cuentas Por Cobrar\obj\Debug\Cuentas_Por_Cobrar.Resources.resources
+C:\Users\Steven Castillo\source\repos\Cuentas Por Cobrar\Cuentas Por Cobrar\obj\Debug\Cuentas Por Cobrar.vbproj.GenerateResource.Cache
+C:\Users\Steven Castillo\source\repos\Cuentas Por Cobrar\Cuentas Por Cobrar\obj\Debug\Cuentas Por Cobrar.vbproj.CoreCompileInputs.cache
+C:\Users\Steven Castillo\source\repos\Cuentas Por Cobrar\Cuentas Por Cobrar\obj\Debug\Cuentas Por Cobrar.exe
+C:\Users\Steven Castillo\source\repos\Cuentas Por Cobrar\Cuentas Por Cobrar\obj\Debug\Cuentas Por Cobrar.xml
+C:\Users\Steven Castillo\source\repos\Cuentas Por Cobrar\Cuentas Por Cobrar\obj\Debug\Cuentas Por Cobrar.pdb
+C:\Users\Steven Castillo\source\repos\Cuentas Por Cobrar\Cuentas Por Cobrar\obj\Debug\Cuentas_Por_Cobrar.Form2.resources
+C:\Users\Steven Castillo\source\repos\Cuentas Por Cobrar\Cuentas Por Cobrar\obj\Debug\Cuentas_Por_Cobrar.Form3.resources
+C:\Users\Steven Castillo\source\repos\Cuentas Por Cobrar\Cuentas Por Cobrar\obj\Debug\Cuentas_Por_Cobrar.Form4.resources
+C:\Users\Mypc.DESKTOP-955L8C7\source\repos\Cuentas Por Cobrar\Cuentas Por Cobrar\bin\Debug\Cuentas Por Cobrar.exe.config
+C:\Users\Mypc.DESKTOP-955L8C7\source\repos\Cuentas Por Cobrar\Cuentas Por Cobrar\bin\Debug\Cuentas Por Cobrar.exe
+C:\Users\Mypc.DESKTOP-955L8C7\source\repos\Cuentas Por Cobrar\Cuentas Por Cobrar\bin\Debug\Cuentas Por Cobrar.pdb
+C:\Users\Mypc.DESKTOP-955L8C7\source\repos\Cuentas Por Cobrar\Cuentas Por Cobrar\bin\Debug\Cuentas Por Cobrar.xml
+C:\Users\Mypc.DESKTOP-955L8C7\source\repos\Cuentas Por Cobrar\Cuentas Por Cobrar\bin\Debug\MySql.Data.dll
+C:\Users\Mypc.DESKTOP-955L8C7\source\repos\Cuentas Por Cobrar\Cuentas Por Cobrar\bin\Debug\MySql.Data.Entity.EF6.dll
+C:\Users\Mypc.DESKTOP-955L8C7\source\repos\Cuentas Por Cobrar\Cuentas Por Cobrar\bin\Debug\MySQL.Data.EntityFrameworkCore.Design.dll
+C:\Users\Mypc.DESKTOP-955L8C7\source\repos\Cuentas Por Cobrar\Cuentas Por Cobrar\bin\Debug\MySQL.Data.EntityFrameworkCore.dll
+C:\Users\Mypc.DESKTOP-955L8C7\source\repos\Cuentas Por Cobrar\Cuentas Por Cobrar\bin\Debug\MySql.Web.dll
+C:\Users\Mypc.DESKTOP-955L8C7\source\repos\Cuentas Por Cobrar\Cuentas Por Cobrar\bin\Debug\MySql.Data.xml
+C:\Users\Mypc.DESKTOP-955L8C7\source\repos\Cuentas Por Cobrar\Cuentas Por Cobrar\bin\Debug\MySql.Data.Entity.EF6.xml
+C:\Users\Mypc.DESKTOP-955L8C7\source\repos\Cuentas Por Cobrar\Cuentas Por Cobrar\bin\Debug\MySQL.Data.EntityFrameworkCore.xml
+C:\Users\Mypc.DESKTOP-955L8C7\source\repos\Cuentas Por Cobrar\Cuentas Por Cobrar\bin\Debug\MySql.Web.xml
+C:\Users\Mypc.DESKTOP-955L8C7\source\repos\Cuentas Por Cobrar\Cuentas Por Cobrar\obj\Debug\Cuentas Por Cobrar.vbprojResolveAssemblyReference.cache
+C:\Users\Mypc.DESKTOP-955L8C7\source\repos\Cuentas Por Cobrar\Cuentas Por Cobrar\obj\Debug\Cuentas_Por_Cobrar.Form1.resources
+C:\Users\Mypc.DESKTOP-955L8C7\source\repos\Cuentas Por Cobrar\Cuentas Por Cobrar\obj\Debug\Cuentas_Por_Cobrar.Form2.resources
+C:\Users\Mypc.DESKTOP-955L8C7\source\repos\Cuentas Por Cobrar\Cuentas Por Cobrar\obj\Debug\Cuentas_Por_Cobrar.Form3.resources
+C:\Users\Mypc.DESKTOP-955L8C7\source\repos\Cuentas Por Cobrar\Cuentas Por Cobrar\obj\Debug\Cuentas_Por_Cobrar.Form4.resources
+C:\Users\Mypc.DESKTOP-955L8C7\source\repos\Cuentas Por Cobrar\Cuentas Por Cobrar\obj\Debug\Cuentas_Por_Cobrar.Resources.resources
+C:\Users\Mypc.DESKTOP-955L8C7\source\repos\Cuentas Por Cobrar\Cuentas Por Cobrar\obj\Debug\Cuentas Por Cobrar.vbproj.GenerateResource.Cache
+C:\Users\Mypc.DESKTOP-955L8C7\source\repos\Cuentas Por Cobrar\Cuentas Por Cobrar\obj\Debug\Cuentas Por Cobrar.vbproj.CoreCompileInputs.cache
+C:\Users\Mypc.DESKTOP-955L8C7\source\repos\Cuentas Por Cobrar\Cuentas Por Cobrar\obj\Debug\Cuentas Por Cobrar.exe
+C:\Users\Mypc.DESKTOP-955L8C7\source\repos\Cuentas Por Cobrar\Cuentas Por Cobrar\obj\Debug\Cuentas Por Cobrar.xml
+C:\Users\Mypc.DESKTOP-955L8C7\source\repos\Cuentas Por Cobrar\Cuentas Por Cobrar\obj\Debug\Cuentas Por Cobrar.pdb
